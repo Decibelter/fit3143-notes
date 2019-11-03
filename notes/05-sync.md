@@ -64,7 +64,7 @@
 
 #### Logical and Physical Clocks
 - Clock sync need not be absolute
-- If to processes do not interact, their clock need not be synchronised
+- If two processes do not interact, their clock need not be synchronised
 - What matters is they agree on the order in which events occur
 - For many purposes, it is sufficient that all interacting machines agree on the same time
 - It is not essential that time is the real time
